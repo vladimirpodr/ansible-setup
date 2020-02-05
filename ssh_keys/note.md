@@ -1,0 +1,1 @@
+create and store public-private keypair and authorized_keys file in this directory

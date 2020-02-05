@@ -1,0 +1,2 @@
+[common]
+192.168.0.1 ansible_sudo_pass="{{ deploy_user_password }}"

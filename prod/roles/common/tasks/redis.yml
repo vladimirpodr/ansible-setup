@@ -1,0 +1,11 @@
+##
+# Installs and configures Redis
+##
+---
+- block:
+
+    - name: install Redis
+      become: yes
+      apt: name={{ item }} state=latest
+      with_items:
+        - redis-server
