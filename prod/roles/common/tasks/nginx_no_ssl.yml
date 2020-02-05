@@ -1,4 +1,5 @@
-###
+---
+##
 # Configuration for Nginx web server without HTTPS
 ##
 - name: ensure Nginx is installed via the system package

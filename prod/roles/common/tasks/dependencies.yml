@@ -1,3 +1,4 @@
+---
 ###
 # Handles application dependencies and environment variables
 # Also syncs the application with the database schema
